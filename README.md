@@ -98,6 +98,7 @@ At the core of the project is the "Framework for Everything," which consists log
   - Decluttering Strategies
   - Storage Solutions for Small Spaces
   - Organizing Closets and Drawers
+  - Establishing a Wardrobe
   - Managing Digital Clutter
   - Labeling and Categorizing Items
 - **Maintenance**: Schedule home repairs and seasonal maintenance.
@@ -320,8 +321,7 @@ This runner provides a structured approach to coaching a T-ball team, covering e
 
 ## Open Decision Points
 
-1. What do we name the documents/individual pieces of information?
-2. Should the individual documents be in markdown or yaml? Example:
+1. Should runners be in markdown or yaml? It's possible that this project expands into a DB and is rendered via a webapp or API. YAML example:
 
 ```
 title: Efficient Laundry Management System
@@ -357,3 +357,4 @@ resources:
   - title: The Ultimate Laundry Guide
     link: http://example.com
 ```
+
