@@ -44,7 +44,11 @@ Human-NG Framework provides a beneficial tool for AI via:
 - **Continuous Improvement**: All history and changes are transparent, so you can see how topics evolve and improve over time. AI helps ensure that the frameworks stay current and effective by learning from user feedback and behavior.
 
 ## Framework for Everything
-At the core of the project is the "Framework for Everything," which consists logical groupings of areas of life. They start close, dealing with your physical and mental health, relationships, time management, morals, and personal disclipline. From there, the system expands out, touching on household management, family/friend relationships, work, technology, and into the community. Within each section, you'll reach one or more nested documents (to be named), which outline our best knowledge, frameworks, and systems. 
+At the heart of the Human-NG project lies the "Framework for Everything," a comprehensive system designed to enhance various aspects of life. This framework is organized into logical categories that cover personal well-being, household management, relationships, professional life, technology integration, and community involvement. Each category is structured to provide practical, actionable guidance to help users manage their lives more effectively.
+
+The scope of the project is broad, encompassing everything from individual health and time management to family dynamics and community engagement. By addressing these diverse areas, the framework aims to provide a holistic approach to life management that is both practical and adaptable to individual needs.
+
+Central to the framework are the detailed documents known as "Runners." These runners compile the best practices, proven frameworks, and practical systems for managing various life areas. Often serving as hubs of information on complex or controversial topics, runners reflect the best information we have access to, providing clear, actionable steps to help users achieve their goals and improve their quality of life. Based on science and humanity's collective wisdom. 
 
 <img width="393" alt="image" src="https://github.com/p4lsec/human-ng/assets/34799788/1ef4daee-4054-4b8e-bd8c-e8bd8ec9e5e1">
 
